@@ -83,7 +83,10 @@
            <label for="txt_senha">Senha</label>
            <input type="password" name="txt_senha" id="txt_senha" class="form-control"></div>
          <div
-           <button type="button"> Marcar Presença </button>
+           <button type="button"
+             class="btn-padrao"
+             onclick="presencial()"> 
+             Marcar Presença </button>
          </div>
        </form>
       </div>
