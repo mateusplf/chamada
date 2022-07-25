@@ -1,0 +1,199 @@
+*{
+  font-size: 18px;
+}
+
+:root{
+  --cor-primaria: #F2274C;
+  --cor-primaria-escura: #dedede;
+  --cor-primaria-clara:#ca2140;
+  --cor-secundaria: #038C3E;
+  --cor-secundaria-clara: #0CF25D;
+  --cor-neutra-clara: #EEEEEE;
+  --cor-neutra-escura: #001403;
+}
+
+body{
+  background-color: var(--cor-primaria-clara);
+  color: var(--cor-neutra-clara);
+}
+
+h1, h2{
+  text-align:center;
+}
+
+main{
+background-color: var(--cor-primaria);
+padding: 32px;
+border-radius: 8px;
+}
+main > button {
+  background-color:var(--cor-primaria-escura);
+  color: var(--cor-neutra-escura);
+  font-weight: bolder;
+  padding: 0.5em;
+  border-radius: 8px;
+  float: left;
+}
+table{
+  width:100%;
+}
+.modal-content{
+  background-color:var(--cor-primaria);
+}
+.modal-header{
+  background-color:var(--cor-primaria-clara);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
