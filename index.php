@@ -84,7 +84,7 @@
            <input type="password" name="txt_senha" id="txt_senha" class="form-control"></div>
          <div
            <button type="button"
-             class="btn-padrao"
+             class="btn btn-success"
              onclick="presencial()"> 
              Marcar Presença </button>
          </div>
